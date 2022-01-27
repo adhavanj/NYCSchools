@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NYCSchools</string>
+    <string name="website">Website</string>
+    <string name="call">Call</string>
+    <string name="email">Email</string>
+    <string name="no_school">List is Empty</string>
+    <string name="sat_takers">No of SAT test takers is </string>
+    <string name="read_avg">SAT reading AVG :</string>
+    <string name="write_avg">SAT reading AVG :</string>
+    <string name="math_avg">SAT math AVG :</string>
+    <string name="no_sat">No SAT details available for this school</string>
+</resources>
